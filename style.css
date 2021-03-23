@@ -1,0 +1,17 @@
+* {
+    transition: all .4s;
+    word-break: break-all;
+}
+
+body {
+    background-color: #176366;
+    color: #DDD;
+    font-size: 18px;
+    font-family:  monospace;
+    margin : 0 100px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px;
+}
