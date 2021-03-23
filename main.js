@@ -1,8 +1,8 @@
 let title = document.querySelector("h1");
 
-title.innerHTML = "toto"
+title.innerHTML = "toto le big boss"
 
-title.style.backgroundColor = "yellow"
+title.style.backgroundColor = "pink"
 
 
 console.log(title);
