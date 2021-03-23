@@ -1,0 +1,22 @@
+{
+  "name": "mon-projet-de-groupe",
+  "version": "1.0.0",
+  "description": "Un petit projet avec la session Freyja waow",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youpiwaza/mon-projet-de-groupe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youpiwaza/mon-projet-de-groupe/issues"
+  },
+  "homepage": "https://github.com/youpiwaza/mon-projet-de-groupe#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
