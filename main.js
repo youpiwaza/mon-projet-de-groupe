@@ -1,13 +1,13 @@
-let title = document.querySelector("h1");
-let title1 = document.querySelector("h2");
-let title2 = document.querySelector("h3");
+let title = document.querySelectorAll("h1");
+let title1 = document.querySelectorAll("h2");
+let title2 = document.querySelectorAll("h3");
 let p = document.querySelectorAll("p");
 
-title.innerHTML = "toto"
-title1.innerHTML = "toto"
-title2.innerHTML = "toto"
 
-title.style.backgroundColor = "yellow"
-
-
+title.forEach(e => e.innerHTML = "toto")
+title1.forEach(e => e.innerHTML = "toto")
+title2.forEach(e => e.innerHTML = "toto")
 p.forEach(e => e.innerHTML = "toto")
+
+
+console.log(p);
